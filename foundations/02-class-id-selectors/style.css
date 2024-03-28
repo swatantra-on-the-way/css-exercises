@@ -1,0 +1,19 @@
+.odd{
+    background-color: hsl(1, 100%, 90%);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#firstDiv{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.second{
+    font-size: 24px;
+}
+
+#secondDiv{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #90EE90;
+}
